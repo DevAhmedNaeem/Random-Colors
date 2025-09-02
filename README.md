@@ -21,7 +21,8 @@ Every time you refresh the page, each box will be filled with a new random color
 ---
 
 ## 📷 Preview
-![Random Color Generator Screenshot](screenshot.png)  
-*(Add your screenshot here if you want)*
+
+<img width="1578" height="717" alt="image" src="https://github.com/user-attachments/assets/ace9ca14-6610-41fe-85ce-f7fe63c15eb2" />
+
 
 ---
