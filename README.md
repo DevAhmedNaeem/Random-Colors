@@ -16,7 +16,7 @@ Every time you refresh the page, each box will be filled with a new random color
 ## 🛠️ Technologies Used
 - **HTML5**  
 - **CSS3** (Flexbox, styling)  
-- **JavaScript
+- **JavaScript**
 
 ---
 
